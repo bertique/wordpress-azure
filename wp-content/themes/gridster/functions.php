@@ -185,7 +185,7 @@ add_action( 'wp_enqueue_scripts', 'themefurnace_scripts' );
 
 
 function load_fonts() {
-    wp_register_style('googleFonts', 'http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700', array(), false, 'all');
+    wp_register_style('googleFonts', 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700', array(), false, 'all');
     wp_enqueue_style( 'googleFonts');
 }
 
