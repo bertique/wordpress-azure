@@ -61,14 +61,14 @@ define('DISALLOW_FILE_EDIT', true);
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
-define('SECURE_AUTH_KEY',  'put your unique phrase here');
-define('LOGGED_IN_KEY',    'put your unique phrase here');
-define('NONCE_KEY',        'put your unique phrase here');
-define('AUTH_SALT',        'put your unique phrase here');
-define('SECURE_AUTH_SALT', 'put your unique phrase here');
-define('LOGGED_IN_SALT',   'put your unique phrase here');
-define('NONCE_SALT',       'put your unique phrase here');
+define('AUTH_KEY',         '<*e*Qy<n)b:W/dZC+ooSTf/D7P*];Z3Md`cykg7^#pD;:$q=a<-T^u2$m~+WIuOB');
+define('SECURE_AUTH_KEY',  '8/2@&!U0XIc7g>{@ }-bkC*/4-MWU+K%5#&(W9/=;S<[|zR`;mIDZ/@{xLpBXQH>');
+define('LOGGED_IN_KEY',    ']:o`1s=rX-o<T$0uJ2Qp#${my_o{C^Qc!n<)|M`V|dk);w(7=o,]-xbfI?oh(90Y');
+define('NONCE_KEY',        'DQyQ-us+lhgy<(1]-aS(+Elkse,;2cWY/h5R]8l=-Lul(XV:ned4t$.%>Nm<<[q$');
+define('AUTH_SALT',        'I&:p8~*!_x=GdU]m6>NL/f+OPzx)|y1L~h+fkkOh^kj.Y{*HsDY=?U5bWv=kt.~P');
+define('SECURE_AUTH_SALT', 'dN=su}^aN{@fq4WE=sSI-p ]_+(T`<h7;!(*Q:4Qx^v>mf^|6Up.*,xE;vT-S]A}');
+define('LOGGED_IN_SALT',   'x+hjzZAewqjVzWA+a|+D]PPPbxN`F}5*vYv0rDlzvg[y}slR>_&w+Gm>2I*bkC>G');
+define('NONCE_SALT',       'cj4RTh2`+kk+h}/^C++/0MyV!^:CY#/lCfLZajJvC|4lobg>7NdFYi<8t7#(QKMU');
 
 /**#@-*/
 
